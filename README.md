@@ -196,10 +196,6 @@ TEST_F(ConcurrencyTest, HundredThreadsCapacityTwenty) {
 | Race Condition Prevention | Triple-layer: mutex + transaction + constraint |
 | Transaction Isolation | `BEGIN IMMEDIATE` for serializable writes |
 
-## 📖 Documentation
-
-- [Interview Notes](docs/interview_notes.md) — Technical decisions explained in interview language
-- [Architecture Overview](docs/architecture_overview.html) — Interactive HTML page with diagrams
 
 ## 📄 License
 
